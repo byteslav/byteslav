@@ -31,7 +31,14 @@ Talking about personal stuffs:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azaza12345&show_icons=true&locale=en&layout=compact&theme=gotham" alt="azaza12345" /></p>
+✨ Favorite Repositories
+
+<a href="https://github.com/azaza12345/CsharpDapperExample">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=azaza12345&repo=CsharpDapperExample&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/azaza12345/BestMovieTelegramBot">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=azaza12345&repo=BestMovieTelegramBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <code align = "right"> ![](https://visitor-badge.glitch.me/badge?page_id=lnp.lnp) </code>
