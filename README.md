@@ -10,7 +10,7 @@ Talking about personal stuffs:
     <li> 🏣 I’m currently studying at ITMO University </li>
     <li> 📗 Really want to become a cool developer </li>
     <li> 💬 Ask me about .NET, I am happy to help you </li>
-    <li> ⚡ Fun fact: I'm a big chess fun </li>
+    <li> ⚡ Fun fact: I'm a big chess fan </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
