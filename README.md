@@ -7,8 +7,8 @@
 
 Talking about personal stuffs:
 <ul>
-    <li> 🏣 I’m currently studying at ITMO University </li>
-    <li> 📗 Really want to become a cool developer </li>
+    <li> 🏣 I’ve studied at ITMO University </li>
+    <li> 📗 Want to build something on my own in the future </li>
     <li> 💬 Ask me about .NET, I am happy to help you </li>
     <li> ⚡ Fun fact: I'm a big chess fan </li>
 </ul>
