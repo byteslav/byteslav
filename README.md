@@ -3,8 +3,6 @@
 🚀 Hardworking developer form Saint-Petersburg, Russia
 👨🏻‍💻 I have a passion for the <b>C#</b> programming language and its various <b>libraries/frameworks/engines</b>
 
-<img align="right" alt="GIF" src="./CatProgrammer.gif" width="500" height="320" />
-
 Talking about personal stuffs:
 <ul>
     <li> 🏣 I’ve studied at ITMO University </li>
