@@ -2,13 +2,10 @@
 
 🚀 Hardworking developer with more than 6 years of commercial experience
 
-👨🏻‍💻 I have a passion for the <b>C#</b> programming language and its various <b>libraries/frameworks/engines</b>
-
 Talking about personal stuff:
 <ul>
     <li> 🏣 I graduated at ITMO University </li>
     <li> 📗 Want to build something on my own in the future </li>
-    <li> 💬 Ask me about .NET, I am happy to help you </li>
     <li> ⚡ Fun fact: I'm a big chess fan </li>
 </ul>
 
